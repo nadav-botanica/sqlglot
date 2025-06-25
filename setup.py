@@ -9,6 +9,11 @@ def sqlglotrs_version():
     raise ValueError("Could not find version in Cargo.toml")
 
 
+
+
+
+
+
 setup(
     name="sqlglot",
     description="An easily customizable SQL parser and transpiler",
